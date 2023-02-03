@@ -1,3 +1,5 @@
+# C Programming Examples
+
 This repository contains a collection of various programs written in the C programming language. The purpose of this repository is to provide a resource for those who are learning C or simply looking for examples of well-written C code.
 
 # Getting Started
